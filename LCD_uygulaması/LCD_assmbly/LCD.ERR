@@ -1,0 +1,5 @@
+Warning[205] C:\USERS\TLHMTL\DESKTOP\GITHUB_PROJELER\LCD\LCD_ASSMBLY\LCD.ASM 10 : Found directive in column 1. (ORG)
+Message[302] C:\USERS\TLHMTL\DESKTOP\GITHUB_PROJELER\LCD\LCD_ASSMBLY\LCD.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TLHMTL\DESKTOP\GITHUB_PROJELER\LCD\LCD_ASSMBLY\LCD.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\TLHMTL\DESKTOP\GITHUB_PROJELER\LCD\LCD_ASSMBLY\LCD.ASM 18 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\TLHMTL\DESKTOP\GITHUB_PROJELER\LCD\LCD_ASSMBLY\LCD.ASM 164 : Found directive in column 1. (END)
